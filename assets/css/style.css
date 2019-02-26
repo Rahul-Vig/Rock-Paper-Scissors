@@ -1,0 +1,14 @@
+body {
+  background-image: url("/assets/images/bg1.jpg");
+}
+
+.jumbotron {
+  font-family: "Righteous", cursive;
+  color: white;
+  background-image: url("/assets/images/jumbo.png");
+}
+
+.row {
+  color: white;
+  font-family: "Righteous", cursive;
+}
